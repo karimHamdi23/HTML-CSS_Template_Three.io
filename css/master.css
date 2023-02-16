@@ -782,6 +782,9 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-weight: bold;
 }
 .our-skills .skill h3 span {
   font-size: 12px;
@@ -789,6 +792,7 @@ ul {
   padding: 3px 5px;
   border-radius: 4px;
   color: var(--main-color);
+  font-weight: bold;
 }
 .our-skills .skill .the-progress {
   height: 30px;
